@@ -1,7 +1,25 @@
-# Révision
+# Revision
 
-Serious game en ligne qui aide à la révision. 
+Online serious game that helps with revisions.
 
-Un joueur écrit une question dans un livre et elle s'affiche pour tout le monde sur un tableau blanc, ce joueur doit aussi écrire les réponses possibles. Chaque joueur peux ensuite répondre à la question, en sélectionnant une des réponses,  dans un temps défini. A la fin de ce temps, si la réponse est bonne, elle se met en vert, si ce n'est pas la bonne, elle se met en rouge, avec la bonne réponse en vert à côté.
+## Context
 
-Développé avec Unity dans une équipe de 2 personnes.
+Developped in a game development class during the COVID pandemic.
+
+Developped with Unity in C# during 5 months.
+
+Team : 
+ - Miguel Mendes
+ - Christophe Fracheboud
+
+## Game
+
+There is no goal expect learning stuff with friends. You'll find yourself in a classroom with the possibility to write down a question.
+
+<img src="./Ressources/question.png" alt="Question" width="50%" />
+
+One of the player writes a question in his book (with 4 possible answers) and it is displayed on a whiteboard. Then each player can answer the question by selecting on of the answers within a defined time. At the end of the timer, if your answer is correct, it turns green. Otherwise, your answer turns red and the right turn green. You don't see what the others player answer.
+
+<img src="./Ressources/env.png" alt="Environment" width="50%" />
+
+You can find a video (trailer) of the game [here]() 
