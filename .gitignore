@@ -8,3 +8,7 @@ UserSettings
 
 .vsconfig
 .collabignore
+
+obj
+
+.idea
