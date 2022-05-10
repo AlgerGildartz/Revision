@@ -22,4 +22,4 @@ One of the player writes a question in his book (with 4 possible answers) and it
 
 <img src="./Ressources/env.png" alt="Environment" width="50%" />
 
-You can find a video (trailer) of the game [here]() 
+You can find a video (trailer) of the game [here](https://youtu.be/vldC69g1tFw) 
